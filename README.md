@@ -22,7 +22,7 @@ int main() {
         result = num1 + num2;
         printf("Result of addition: %d\n", result);
     } else if (option == 2) {
-        result = num1 - num
+        result = num1 - num2;
         printf("Result of subtraction: %d\n", result);
     } else if (option == 3) {
         result = num1 * num2;
